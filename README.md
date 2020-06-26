@@ -1,5 +1,5 @@
 # ssn
-Stores social security number with the mainframe.
+Stores social security number in the mainframe.
 
 This program utilizes modern tool provided by the Open Mainframe Project. \
 The user inputs their name and social security number, which is stored as a hierarchical variable.
