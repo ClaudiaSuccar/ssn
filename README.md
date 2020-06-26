@@ -1,2 +1,2 @@
 # ssn
-ssn storage
+Social Security Number storage.
