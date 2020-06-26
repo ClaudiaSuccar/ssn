@@ -1,2 +1,2 @@
 # ssn
-Social Security Number storage.
+Stores social security numbers.
