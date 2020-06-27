@@ -4,7 +4,7 @@ This program utilizes modern tools provided by IBM and the Open Mainframe Projec
 
 1. The programmer is able to utilize the ```MOVE TO``` function, which follows the formatting established in ```WORKING-STORAGE SECTION```.
 
-2. The ```WORKING-STORAGE SECTION``` is formatted as follows.
+2. The ```WORKING-STORAGE SECTION``` is formatted as follows. Group items are implemented within the hierarchical value ```Civilian```.
 ```cobol
       *****************************************************************
        DATA DIVISION. 
