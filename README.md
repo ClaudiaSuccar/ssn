@@ -26,7 +26,7 @@ This program utilizes modern tools provided by IBM and the Open Mainframe Projec
 3. Items are accessed within the ```PROCEDURE DIVSION```.
 ```cobol
        PROCEDURE DIVISION.
-           MOVE "121Jane Doe            03151985123456789" TO Civilian.
+           MOVE "286Grace Murray Hopper 12091906111223333" TO Civilian.
            DISPLAY "Identity Number: " Ident.
            DISPLAY "Name: " CiviName. 
            DISPLAY "Date of Birth: " MOB  "/" DOB "/" YOB.
