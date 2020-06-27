@@ -1,4 +1,4 @@
-# ssn
+# SSN
 Stores civilian information in the mainframe.\
 This program utilizes modern tools provided by IBM and the Open Mainframe Project. 
 
