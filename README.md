@@ -23,7 +23,7 @@ This program utilizes modern tools provided by IBM and the Open Mainframe Projec
               06 SSSerial PIC 9999.
       *****************************************************************
 ```
-3. Items are accessed within the ```PROCEDURE DIVSION```.
+3. Items are accessed within ```PROCEDURE DIVSION```.
 ```cobol
        PROCEDURE DIVISION.
            MOVE "286Grace Murray Hopper 12091906111223333" TO Civilian.
