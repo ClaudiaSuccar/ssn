@@ -23,8 +23,8 @@ The programmer is able to utilize the ```MOVE TO``` function, which follows the 
               06 SSSerial PIC 9999.
       *****************************************************************
 ```
-3. ```DISPLAY``` examples after execution.
-```bash
+3. ```DISPLAY``` example after execution.
+```shell
 *********************************************
 Identity Number: 286
 Name: Grace Murray Hopper
