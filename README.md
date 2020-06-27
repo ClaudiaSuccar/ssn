@@ -30,6 +30,7 @@ MOVE "121Jane Doe            03151985123456789" TO Civilian.
            DISPLAY "Name: " CiviName. 
            DISPLAY "Date of Birth: " MOB  "/" DOB "/" YOB.
            DISPLAY "SSN: " SSArea "-" SSGroup "-" SSSerial.
+```           
 4. ```DISPLAY``` example after execution.
 ```
 *********************************************
