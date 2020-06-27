@@ -24,7 +24,7 @@ The programmer is able to utilize the ```MOVE TO``` function, which follows the 
       *****************************************************************
 ```
 3. ```DISPLAY``` example after execution.
-```shell
+```
 *********************************************
 Identity Number: 286
 Name: Grace Murray Hopper
