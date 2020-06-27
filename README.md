@@ -1,6 +1,7 @@
 # SSN
 Stores civilian information in the mainframe.
-This program utilizes modern tools provided by IBM and the Open Mainframe Project. 
+
+This program utilizes modern tools provided by IBM and the [Open Mainframe Project](https://www.openmainframeproject.org/). 
 
 1. The programmer is able to utilize the ```MOVE TO``` function, which follows the formatting established in ```WORKING-STORAGE SECTION```.
 
@@ -41,3 +42,8 @@ Date of Birth: 12/09/1906
 SSN: 111-22-3333
 *********************************************
 ```
+
+# What I Learned
+- Hierarchical values and group items
+- Divisions of COBOL program
+- MOVE TO functionality
