@@ -5,7 +5,7 @@
       * Maintenence Log                                              
       * Date      Author        Maintenance Requirement               
       * --------- ------------  --------------------------------------- 
-      * 06/24/20  Claudia S.    Created to store SSNs.
+      * 06/24/20  Claudia S.    Created to store civilian information.
       *                                                               
       *****************************************************************
        IDENTIFICATION DIVISION.
