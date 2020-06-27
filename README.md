@@ -1,5 +1,5 @@
 # ssn
-Stores social security numbers in the mainframe.
+Stores civilian information in the mainframe.
 
 1. This program utilizes modern tools provided by IBM and the Open Mainframe Project. \
 The programmer is able to utilize the ```MOVE TO``` function, which follows the formatting established in ```WORKING-STORAGE SECTION```.
