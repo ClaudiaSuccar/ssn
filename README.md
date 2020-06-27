@@ -23,7 +23,14 @@ This program utilizes modern tools provided by IBM and the Open Mainframe Projec
               06 SSSerial PIC 9999.
       *****************************************************************
 ```
-3. ```DISPLAY``` example after execution.
+3. Items are accessed within the ```PROCEDURE DIVSION```.
+```cobol
+MOVE "121Jane Doe            03151985123456789" TO Civilian.
+           DISPLAY "Identity Number: " Ident.
+           DISPLAY "Name: " CiviName. 
+           DISPLAY "Date of Birth: " MOB  "/" DOB "/" YOB.
+           DISPLAY "SSN: " SSArea "-" SSGroup "-" SSSerial.
+4. ```DISPLAY``` example after execution.
 ```
 *********************************************
 Identity Number: 286
